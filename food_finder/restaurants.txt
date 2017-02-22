@@ -1,4 +1,0 @@
-Hot Tamale	Mexican	25.00
-McDonalds	Fast Food	10.00
-Subway	Fast Food	5.00
-pita pocket	fast food	10
